@@ -1,0 +1,23 @@
+{
+  "Name": "what?",
+  "Author": "king darvel",
+  "Description": "This mod adds cool item and more all))",
+  "ModVersion": "1.0",
+  "GameVersion": "1.23+",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun",
+    "Realistic",
+    "Destructible",
+    "Electronics",
+    "Vehicle"
+  ],
+  "Scripts": [
+    "script.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2767138073"
+}
